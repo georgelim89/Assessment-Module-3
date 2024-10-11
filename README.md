@@ -3,9 +3,9 @@ Webpage visit counter application using Docker that counts how many times the we
 
 To use:
 1) Download files
-2) Ensure
+2) Change file directory to local folder where files are located
 3) From file directory in Docker Desktop, run command 'docker-compose up - build -d'
-4) Open the webbrowser and enter url: http://localhost:4001/
+4) Open the web browser and enter url: http://localhost:4001/
 5) Refresh and note the change in counter
 
 Application built with reference to:
